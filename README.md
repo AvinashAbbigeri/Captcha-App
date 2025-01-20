@@ -1,7 +1,8 @@
 Basic CAPTCHA Verification App
 
 Brief Overview:
-This project is a simple CAPTCHA verification system built to generate and validate user inputs against a CAPTCHA code. It employs random text generation, a dynamic canvas for displaying CAPTCHA, and JavaScript for interaction and validation.
+- This project is a simple CAPTCHA verification system built to generate and validate user inputs against a CAPTCHA code. It employs random text 
+  generation, a dynamic canvas for displaying CAPTCHA, and JavaScript for interaction and validation.
 
 Key Features:
 - Dynamic CAPTCHA Generation: Random 6-character alphanumeric CAPTCHA created each time the app reloads or 
@@ -20,7 +21,8 @@ Technologies Used:
 - JavaScript: Handled CAPTCHA generation, canvas drawing, input validation, and feedback mechanisms.
 
 My Role:
-Designed and developed the entire project independently, focusing on integrating HTML, CSS, and JavaScript to create an interactive CAPTCHA system.
+- Designed and developed the entire project independently, focusing on integrating HTML, CSS, and JavaScript to create an interactive CAPTCHA 
+  system.
 
 Challenges Solved:
 - Learning to use the HTML canvas for rendering text and adding distortions and noise.
@@ -28,4 +30,5 @@ Challenges Solved:
 - Ensuring dynamic CAPTCHA updates with seamless user experience.
 
 Outcome:
-The project successfully demonstrated how to build a functional CAPTCHA system using JavaScript. It served as a great learning experience for working with the canvas API, dynamic input validation, and interactive web applications.
+- The project successfully demonstrated how to build a functional CAPTCHA system using JavaScript. It served as a great learning experience for 
+  working with the canvas API, dynamic input validation, and interactive web applications.
